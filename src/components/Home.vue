@@ -24,6 +24,18 @@
         </tr>
       </thead>
     </table>
+    <i class="bi-bag-dash"></i>
+
+    <div class="btn-group">
+      <button class="btn btn-primary"></button>
+      <button class="btn btn-primary">
+        <span class="spinner-border spinner-border-sm"></span> Loading..
+      </button>
+      <button class="btn btn-primary" disabled>
+        <span class="spinner-border spinner-border-sm"></span> Loading..
+      </button>
+      <button class="btn btn-warning" disabled>btn-warning</button>
+    </div>
   </div>
 </template>
 

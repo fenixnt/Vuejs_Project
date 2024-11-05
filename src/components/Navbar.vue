@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg bg-light">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">Navbar</a>
+      <a class="navbar-brand" href="#">My blog</a>
       <button
         class="navbar-toggler"
         type="button"
@@ -26,7 +26,7 @@
           </li>
 
           <li class="nav-item">
-            <a class="nav-link disabled">Disabled</a>
+            <a class="nav-link" href="/formPage">Form demo</a>
           </li>
         </ul>
         <form class="d-flex" role="search">
